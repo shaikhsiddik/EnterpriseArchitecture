@@ -25,5 +25,5 @@ jobs:
         uses : actions/upload-artifact@v3.1.3
         with:
           name: AndroidDemo.apk
-          path: app/build/output/apk/app-debug.apk
+          path: presentation/build/output/apk/app-debug.apk
 
